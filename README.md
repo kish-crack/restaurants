@@ -5,7 +5,7 @@ A website with food ordering functionality
    Front Page:
    ![text](https://github.com/kish-crack/restaurants/blob/main/images/Screenshot%20(384).png?raw=true)
    Items:
-   https://github.com/kish-crack/restaurants/blob/main/images/Screenshot%20(385).png
+   ![text](https://github.com/kish-crack/restaurants/blob/main/images/Screenshot%20(385).png)
    Ordering The Item:
    https://github.com/kish-crack/restaurants/blob/main/images/Screenshot%20(387).png
    Food Ordered:

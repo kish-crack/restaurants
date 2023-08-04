@@ -1,3 +1,3 @@
 # restaurants
 
-A website with food booking functionality
+A website with food ordering functionality

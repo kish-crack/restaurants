@@ -3,7 +3,7 @@
 A website with food ordering functionality
 1) Customer Side App:
    Front Page:
-   https://github.com/kish-crack/restaurants/blob/main/images/Screenshot%20(384).png
+   (https://github.com/kish-crack/restaurants/blob/main/images/Screenshot%20(384).png?raw=true)
    Items:
    https://github.com/kish-crack/restaurants/blob/main/images/Screenshot%20(385).png
    Ordering The Item:
